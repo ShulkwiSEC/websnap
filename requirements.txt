@@ -1,0 +1,5 @@
+# Replace with the latest version if necessary
+playwright
+Pillow
+matplotlib
+shutil
