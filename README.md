@@ -1,6 +1,6 @@
 # Webpage Screenshot Tool
 ### 
-##### from now no need for exit the terminal and open the broswer whice eat the ram just to view a webpage !!!!!!! ohhhh, writeing tired me, dont think about doning
+##### from now no need for exit the terminal and open the broswer whice eat the ram just to view a webpage !!!!!!! ohhhh, writeing tired me, dont even try think about doning
 ## Overview
 
 This tool allows you to take screenshots of webpages using Playwright. It supports capturing screenshots from a single URL or multiple URLs specified in a file. You can customize the output filename and the directory where screenshots are saved.
@@ -105,4 +105,4 @@ img_dict = {
 
 This Webpage Screenshot Tool provides a simple and efficient way to capture screenshots of webpages using Playwright. Whether you are working with a single URL or batch processing multiple links, this tool streamlines the process and offers flexibility in naming and saving files. We hope you find it useful for your projects!
 
-For any questions or contributions, feel free to open an issue or submit a pull request on the GitHub repository.
+For any questions or contributions, feel free to open an issue or submit a pull request on the this GitHub repository.
